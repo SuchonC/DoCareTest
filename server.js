@@ -1,5 +1,6 @@
 // This is for Git testing
 // Testing again
+// Testing 3 - for git commit -a to see if this file will be staged or not -> it should 
 var express = require('express')
 var mysql = require('mysql')
 var mongoose = require('mongoose')
